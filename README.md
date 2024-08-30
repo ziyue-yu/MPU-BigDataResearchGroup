@@ -3,7 +3,7 @@ This is the Big Data Analytics Research Group at Macao Polytechnic University, l
 
 ## Healthcare Analysis Papers
 
-1. Yu, Z., He, L., Luo, W., Tse, R., & Pau, G. (2021). Deep Learning for COVID-19 Prediction based on Blood Test. In IoTBDS (pp. 103-111). **[Best Student Paper]**
+1. Yu, Z., He, L., Luo, W., Tse, R., & Pau, G. (2021). Deep Learning for COVID-19 Prediction based on Blood Test. In IoTBDS (pp. 103-111). **[Best Student Paper]** [Paper] (https://www.scitepress.org/Papers/2021/104846/104846.pdf)
 
 2. Yu, Z., He, L., Luo, W., Tse, R., & Pau, G. (2022). Deep learning hybrid models for COVID-19 prediction. Journal of Global Information Management (JGIM), 30(10), 1-20.
 
